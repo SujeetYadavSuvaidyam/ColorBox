@@ -1,0 +1,11 @@
+#index{
+    width: 360px;
+    height: 200px;
+    border: 1px solid red;
+    border-radius: 10px;
+    line-height: 140px;
+    text-align: center;
+}
+#txt{
+    padding: 10px;
+}
